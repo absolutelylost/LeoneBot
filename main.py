@@ -3,7 +3,7 @@ from discord.ext import commands, tasks
 from Data import config
 import requests # make http requests and returns .json files
 import json
-import random
+import random, os
 
 
 def get_quote():
@@ -30,7 +30,6 @@ def get_quote():
 #async def test(ctx):
 #    pass
 
-
 #client = Client()
 client = commands.Bot(command_prefix= config.prefix)
 
@@ -38,11 +37,21 @@ client = commands.Bot(command_prefix= config.prefix)
 async def on_ready():
     print('LeoneBot is logged in !')
 
-extensions = { 'cogs.CommandEvents', 'cogs.HelpCommands'}
+extensions= os.listdir('cogs')
+
+print(extensions)
+
 
 if __name__ == '__main__':
     for ext in extensions:
-        client.load_extension(ext)
-        
+        if '.py' in ext:
+            client.load_extension('cogs.'+ ext.removesuffix('.py'))
+
+# extensions = 'cogs.CommandEvents'
+
+# if __name__ == '__main__':
+#     for ext in extensions:
+#         client.load_extension(ext)
+
 
 client.run(config.token)

@@ -3,7 +3,7 @@ from discord.ext import commands
 from discord.ext.commands import bot, cog
 import random
 
-class CommandEvents(commands.Cog): #extends
+class pingCommand(commands.Cog): #extends
     def __init__(self, bot):
         self.bot = bot
 
@@ -12,12 +12,12 @@ class CommandEvents(commands.Cog): #extends
         channel = member.guild.system_channel
         if channel is not None:
             await channel.send('Welcome {0.mention}.'.format(member))
-        
-    @commands.command()
-    async def echo(self, ctx, arg):
-        await ctx.channel.send(arg)
 
+    #@commands.Cog.listener()
+    @commands.command(name= 'ping', aliases= ['pinging', 'pings'])
+    async def ping(self, ctx):# self is instance of class
+        await ctx.channel.send(f'pong!')
 
 def setup(bot):#required
-    bot.add_cog(CommandEvents(bot))
+    bot.add_cog(pingCommand(bot))
 

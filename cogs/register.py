@@ -8,41 +8,41 @@ class registerCommand(commands.Cog): #extends
     def __init__(self, bot):
         self.bot = bot
 
-    @commands.command(name= 'register', aliases= ['registering', 'reg'])
+    @commands.command(name= 'register', aliases= ['join', 'registering', 'reg'])
     #async def register(self, ctx, *, course):# self is instance of class
-    async def register(self, ctx, member: discord.Member, course): #channel: discord.channel):# self is instance of class
+    async def register(self, ctx,  course): #member: discord.Member: self is instance of class
 
-        class_one = 882265290153525310
-        class_two = 882265353332350996
-        channel_id = 882265290153525310
-
-        #mee6 159985870458322944
-
-        print('{}\n\n'.format(member))
-        print('{}\n\n'.format(course))
-        #member = discord.Member
-        if course == 'class_one':
-            print('\n\nclass one chosen\n\n')
-            channel_id = class_one
-        elif course == 'class_two':
-            print('\n\nclass two chosen\n\n')
-            channel_id = class_two
-
+        #retrieve ids for channels on server
         category = discord.utils.get(ctx.guild.categories, name= 'classes')
+        print(category.channels)
+        
+        found = False
+        
         if category is None:
-            await ctx.channel.send('This Channel does not exist. Please check your input again or message a mod if you believe there is an error.\n')
+            await ctx.channel.send('No classes exist.\n')
+
         else:
             for channel in category.channels:
-                #print('{} \n'.format(channel))
-                if channel == 'course':
-                    overwrites = {
-                        ctx.guild.default_role: discord.PermissionOverwrite(read_messages= False), 
-                        ctx.guild.me: discord.PermissionOverwrite(read_messages= True), 
-                        ctx.author: discord.PermissionOverwrite(read_messages= True)            
-                    }
-
+                print(channel.name)
+                print(course)
+                if channel.name == course:
+                    found = True
+                    # channel_info = discord.get.utils(server.channels, name=ch, type="ChannelType.voice")
+                    # gives privilages to user and add them to the requested channel
+                    # print(channel.name)
+                    print("made it here")
+                    # overwrites = {
+                    #     ctx.guild.default_role: discord.PermissionOverwrite(read_messages= False), 
+                    #     ctx.guild.me: discord.PermissionOverwrite(read_messages= True), 
+                    #     ctx.author: discord.PermissionOverwrite(read_messages= True),         
+                    # }
+                    await channel.set_permissions(ctx.author, read_messages=True,
+                                                        send_messages=True)
+        if(found):
             await ctx.channel.send('@{} has been registered.'.format(ctx.message.author))
-            #await ctx.guild.create_text_channel()
+        else: 
+            await ctx.channel.send('This class does not exist. Please check your input again or message a mod if you believe there is an error.\n')
+
 
         #new_channel = self.bot.get_channel(channel_id)
         # member = ctx.message.author

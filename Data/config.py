@@ -1,3 +1,0 @@
-token = "ODc2OTAzODI5Nzg5MDg5ODQz.YRq2VQ.MrFBCCG9ZiHZB_Ws9FT72pRIF3w"
-
-prefix = "!"

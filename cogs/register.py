@@ -16,6 +16,7 @@ class registerCommand(commands.Cog): #extends
         category = discord.utils.get(ctx.guild.categories, name= 'classes')
         print(category.channels)
         
+        #initalize variable to confirm reception of course
         found = False
         
         if category is None:
@@ -26,16 +27,9 @@ class registerCommand(commands.Cog): #extends
                 print(channel.name)
                 print(course)
                 if channel.name == course:
+                    
                     found = True
-                    # channel_info = discord.get.utils(server.channels, name=ch, type="ChannelType.voice")
-                    # gives privilages to user and add them to the requested channel
-                    # print(channel.name)
-                    print("made it here")
-                    # overwrites = {
-                    #     ctx.guild.default_role: discord.PermissionOverwrite(read_messages= False), 
-                    #     ctx.guild.me: discord.PermissionOverwrite(read_messages= True), 
-                    #     ctx.author: discord.PermissionOverwrite(read_messages= True),         
-                    # }
+                    
                     await channel.set_permissions(ctx.author, read_messages=True,
                                                         send_messages=True)
         if(found):
@@ -43,15 +37,7 @@ class registerCommand(commands.Cog): #extends
         else: 
             await ctx.channel.send('This class does not exist. Please check your input again or message a mod if you believe there is an error.\n')
 
-
-        #new_channel = self.bot.get_channel(channel_id)
-        # member = ctx.message.author
-        # await member.move_to(new_channel) # only works for voice channels
-        
-        #await ctx.channel.send('Member have been registered')
-
 def setup(bot):#required
     bot.add_cog(registerCommand(bot))
-
 
 # check documentation on kick and class discord.ExpireBehavior

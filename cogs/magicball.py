@@ -34,8 +34,6 @@ class magicballCommand(commands.Cog): #extends
             ]
         await ctx.channel.send(f'Question: {question}\nAnswer: {random.choice(responses)}')
         
-
-
 def setup(bot):#required
     bot.add_cog(magicballCommand(bot))
 

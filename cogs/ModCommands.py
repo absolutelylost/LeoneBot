@@ -18,7 +18,6 @@ class ModCommands(commands.Cog): #extends
     #     channel = member.guild.system_channel
     #     if channel is not None:
     #         await channel.send('Welcome {0.mention}.'.format(member))
-
     # @commands.command()
     # async def echo(self, ctx, arg):
     #     await ctx.channel.send(arg)

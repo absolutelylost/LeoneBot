@@ -59,6 +59,8 @@ PERMISSIONS -
 	check code on permissions to send specific 
 	commands for upper level roles
 
+	also used to grant permissions to view
+	private channels and post.
 -----------------------------------------------------
 -----------------------------------------------------
 

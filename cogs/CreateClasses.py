@@ -9,7 +9,7 @@ class createClassCommand(commands.Cog): #extends
 
     @commands.command(name= 'create_classes', aliases= ['createclasses'])
 
-    async def create_classes(self, ctx,  course): #member: discord.Member: self is instance of class
+    async def create_classes(self, ctx): #member: discord.Member: self is instance of class
 
         #retrieve ids for channels on server
         category = discord.utils.get(ctx.guild.categories, name= 'classes')
@@ -24,9 +24,8 @@ class createClassCommand(commands.Cog): #extends
                 overwrites = {
                     ctx.guild.default_role: discord.PermissionOverwrite(read_messages= False), 
                 }
-                await ctx.guild.create_text_channel(section, overwrites=overwrites)
-        
-        await ctx.channel.send('channels have been created for classes {}'.format(sections))
+                await ctx.guild.create_text_channel(section, overwrites=overwrites, category=category)
+            await ctx.channel.send('channels have been created for classes {}'.format(sections))
 
 def setup(bot):#required
     bot.add_cog(createClassCommand(bot))

@@ -1,6 +1,6 @@
 import discord
 from discord.ext import commands, tasks
-from Data import config
+# from Data import config
 import requests # make http requests and returns .json files
 import json
 import random, os
@@ -31,7 +31,8 @@ def get_quote():
 #    pass
 
 #client = Client()
-client = commands.Bot(command_prefix= config.prefix)
+client = commands.Bot(command_prefix= "!")
+                    #   config.prefix)
 
 @client.event
 async def on_ready():
@@ -54,4 +55,5 @@ if __name__ == '__main__':
 #         client.load_extension(ext)
 
 
-client.run(config.token)
+client.run(process.env.DISCORD_TOKEN)
+# client.run(config.token)

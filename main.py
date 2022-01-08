@@ -54,6 +54,6 @@ if __name__ == '__main__':
 #     for ext in extensions:
 #         client.load_extension(ext)
 
-
-client.run(process.env.DISCORD_TOKEN)
+client.run(os.environ.get('DISCORD_TOKEN'))
+# client.run(process.env.DISCORD_TOKEN)
 # client.run(config.token)

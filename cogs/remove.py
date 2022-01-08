@@ -24,7 +24,8 @@ class removeCommand(commands.Cog): #extends
         except asyncio.TimeoutError:
             await channel.send('No timely response ... Issue command again if needed.')
             return  
-          
+        
+        # if host replies yes then remove users
         if (msg.content.lower() == 'yes' or msg.content.lower() == 'y'):
             await channel.send('Ok I`ll handle that')
             #retrieve ids for channels on server
@@ -33,12 +34,13 @@ class removeCommand(commands.Cog): #extends
             for channel in category.channels:
                 members = channel.members
                 print(members)
-                await channel.send('{}'.format(members))
-                # await channel.set_permissions(members[i], read_messages=False,
-                #                                         send_messages=False)
+                await channel.send('{}'.format(members.name))
+                for member in members:
+                    await channel.set_permissions(member, read_messages=False,
+                                                        send_messages=False)
             
         else:
-            await channel.send('Nope')
+            await channel.send('Nevermind')
             return
         #retrieve ids for channels on server
         # category = discord.utils.get(ctx.guild.categories, name= 'classes')

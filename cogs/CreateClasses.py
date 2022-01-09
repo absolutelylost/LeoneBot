@@ -2,6 +2,7 @@
 from discord.ext import commands
 from discord.ext.commands import bot, cog
 import discord
+from ..Data import class_parser as cp
 
 class createClassCommand(commands.Cog): #extends
     def __init__(self, bot):
@@ -13,7 +14,8 @@ class createClassCommand(commands.Cog): #extends
 
         #retrieve ids for channels on server
         category = discord.utils.get(ctx.guild.categories, name= 'classes')
-        sections = ['eml3022-song', 'eml3034-kassab', 'eml3101-peles',]
+        sections = cp.class_parser().parse
+        # ['eml3022-song', 'eml3034-kassab', 'eml3101-peles',]
         
         if category is None:
             await ctx.channel.send('No classes exist.\n')

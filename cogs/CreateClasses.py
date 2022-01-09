@@ -2,7 +2,8 @@
 from discord.ext import commands
 from discord.ext.commands import bot, cog
 import discord
-from ..Data import class_parser as cp
+from Data import class_parser as cp
+
 
 class createClassCommand(commands.Cog): #extends
     def __init__(self, bot):

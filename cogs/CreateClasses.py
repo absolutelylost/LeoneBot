@@ -15,7 +15,7 @@ class createClassCommand(commands.Cog): #extends
 
         #retrieve ids for channels on server
         category = discord.utils.get(ctx.guild.categories, name= 'classes')
-        sections = cp.class_parser().parse
+        sections = cp.class_parser().parse()
         # ['eml3022-song', 'eml3034-kassab', 'eml3101-peles',]
         
         if category is None:

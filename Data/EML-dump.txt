@@ -1,0 +1,1315 @@
+
+go to ...
+GO!
+Andres Torres-Figueroa
+Search
+Plan
+Enroll
+My Academics
+ 	Search for Classes	 	 	|	 	 	Browse Course Catalog	 
+Search for Classes
+Search Results
+University of Central Florida | Spring 2022
+My Class Schedule
+COP 3503C
+MoWe 6:00PM - 7:15PM
+CB2 O207
+Shopping Cart
+Your shopping cart is empty.
+The following classes match your search criteria Course Subject: Engineering: Mechanical,  Course Career: Undergraduate,  Show Open Classes Only: No
+Descr
+Open
+Open
+Closed
+Closed
+Wait List
+Wait List
+139 class section(s) found
+Collapse section EML 3022C - Introduction to Computer Aided Engineering EML 3022C - Introduction to Computer Aided Engineering 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11674
+0001-LEC
+Regular
+Mo 3:30PM - 5:20PM
+VAB    0132
+Sang-Eun Song
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11675
+0011-LAB
+Regular
+Tu 8:00AM - 9:50AM
+ENG2   0304
+Sang-Eun Song
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11965
+0012-LAB
+Regular
+Tu 10:00AM - 11:50AM
+ENG2   0304
+Sang-Eun Song
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12290
+0013-LAB
+Regular
+We 8:00AM - 9:50AM
+ENG2   0304
+Sang-Eun Song
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12365
+0014-LAB
+Regular
+We 10:00AM - 11:50AM
+ENG2   0304
+Sang-Eun Song
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12366
+0015-LAB
+Regular
+Th 12:00PM - 1:50PM
+ENG2   0304
+Sang-Eun Song
+01/10/2022 - 05/03/2022
+Wait List	
+Collapse section EML 3034C - Modeling Methods in Mechanical and Aerospace Engineering EML 3034C - Modeling Methods in Mechanical and Aerospace Engineering 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11920
+0001-LEC
+Regular
+TuTh 12:00PM - 1:15PM
+CB2 O207
+Alain Kassab
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+19945
+0011-LAB
+Regular
+Fr 8:00AM - 9:20AM
+ENG2   0304
+Alain Kassab
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+19946
+0012-LAB
+Regular
+Fr 9:30AM - 10:50AM
+ENG2   0304
+Alain Kassab
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+19947
+0013-LAB
+Regular
+Fr 11:00AM - 12:20PM
+ENG2   0304
+Alain Kassab
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+19948
+0014-LAB
+Regular
+Fr 12:30PM - 1:50PM
+ENG2   0304
+Alain Kassab
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+19949
+0015-LAB
+Regular
+Fr 2:00PM - 3:20PM
+ENG2   0304
+Alain Kassab
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+19950
+0016-LAB
+Regular
+Fr 3:30PM - 4:50PM
+ENG2   0304
+Alain Kassab
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EML 3101 - Thermodynamics of Mechanical Systems EML 3101 - Thermodynamics of Mechanical Systems 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12057
+0M01-LEC
+Regular
+We 11:30AM - 1:20PM
+CB1 O121
+Yoav Peles
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EML 3303C - Mechanical Engineering Measurements EML 3303C - Mechanical Engineering Measurements 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12003
+0011-LAB
+Regular
+We 4:30PM - 7:20PM
+ENG1 O168
+Hansen Mansy
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12004
+0012-LAB
+Regular
+We 7:30PM - 10:20PM
+ENG1 O168
+Hansen Mansy
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12005
+0013-LAB
+Regular
+Fr 1:30PM - 4:20PM
+ENG1 O168
+Hansen Mansy
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12006
+0014-LAB
+Regular
+Fr 4:30PM - 7:20PM
+ENG1 O168
+Hansen Mansy
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12211
+0015-LAB
+Regular
+Sa 7:30PM - 10:20PM
+ENG1 O168
+Hansen Mansy
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12352
+0016-LAB
+Regular
+Sa 7:30AM - 10:20AM
+ENG1 O168
+Hansen Mansy
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12353
+0017-LAB
+Regular
+Sa 10:30AM - 1:20PM
+ENG1 O168
+Hansen Mansy
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12354
+0018-LAB
+Regular
+Mo 7:30AM - 10:20AM
+ENG1 O168
+Hansen Mansy
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+19951
+0019-LAB
+Regular
+Mo 10:30AM - 1:20PM
+ENG1 O168
+Hansen Mansy
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11993
+0M01-LEC
+Regular
+Tu 4:30PM - 5:45PM
+CB2 O201
+Hansen Mansy
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EML 3500 - Design and Analysis of Machine Components EML 3500 - Design and Analysis of Machine Components 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11673
+0001-LEC
+Regular
+TuTh 10:30AM - 11:45AM
+HEC    0125
+Jihua Gou
+01/10/2022 - 05/03/2022
+Wait List	
+Collapse section EML 3701 - Fluid Mechanics I EML 3701 - Fluid Mechanics I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12164
+0M01-LEC
+Regular
+Fr 11:30AM - 1:20PM
+CB1 O121
+Olusegun Ilegbusi
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EML 3811C - Mechatronics EML 3811C - Mechatronics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+20551
+0001-LEC
+Regular
+Mo 10:30AM - 12:20PM
+CB1 O319
+Joon-Hyuk Park
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+20552
+0011-LAB
+Regular
+We 10:30AM - 12:20PM
+CB1 O319
+Joon-Hyuk Park
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EML 3933 - Mechanical Career and Academic Faculty Advising I EML 3933 - Mechanical Career and Academic Faculty Advising I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11900
+0001-OTR
+Regular
+ASC
+ 
+Kareem Ahmed
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11901
+0002-OTR
+Regular
+ASC
+ 
+Yuanli Bai
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11902
+0003-OTR
+Regular
+ASC
+ 
+Samik Bhattacharya
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11903
+0004-OTR
+Regular
+ASC
+ 
+Hyoung Jin Cho
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11904
+0005-OTR
+Regular
+ASC
+ 
+Hwan Choi
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11905
+0006-OTR
+Regular
+ASC
+ 
+Louis Chow
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11906
+0007-OTR
+Regular
+ASC
+ 
+Tuhin Das
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11907
+0008-OTR
+Regular
+ASC
+ 
+Jihua Gou
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11908
+0009-OTR
+Regular
+ASC
+ 
+Tarek Elgohary
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11909
+0010-OTR
+Regular
+ASC
+ 
+Qiushi Fu
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11910
+0011-OTR
+Regular
+ASC
+ 
+Ranajay Ghosh
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11911
+0012-OTR
+Regular
+ASC
+ 
+Helen Huang
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11912
+0013-OTR
+Regular
+ASC
+ 
+Olusegun Ilegbusi
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11913
+0014-OTR
+Regular
+ASC
+ 
+Alain Kassab
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11914
+0015-OTR
+Regular
+ASC
+ 
+Jeffrey L. Kauffman
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11915
+0016-OTR
+Regular
+ASC
+ 
+Michael Kinzel
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11916
+0017-OTR
+Regular
+ASC
+ 
+Kawai Kwok
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11917
+0018-OTR
+Regular
+ASC
+ 
+Hansen Mansy
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11918
+0019-OTR
+Regular
+ASC
+ 
+Sagnik Mazumdar
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11919
+0020-OTR
+Regular
+ASC
+ 
+Marino Nader
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12274
+0021-OTR
+Regular
+ASC
+ 
+Nina Orlovskaya
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12275
+0022-OTR
+Regular
+ASC
+ 
+Ahmet Ozbay
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12276
+0023-OTR
+Regular
+ASC
+ 
+Sudeshna Pal
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12277
+0024-OTR
+Regular
+ASC
+ 
+Joon-Hyuk Park
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12278
+0025-OTR
+Regular
+ASC
+ 
+Luigi Perotti
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12279
+0026-OTR
+Regular
+ASC
+ 
+Shawn Putnam
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12280
+0027-OTR
+Regular
+ASC
+ 
+Seetha Raghavan
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12281
+0028-OTR
+Regular
+ASC
+ 
+Wen Shen
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12282
+0029-OTR
+Regular
+ASC
+ 
+Sang-Eun Song
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+13473
+0030-OTR
+Regular
+ASC
+ 
+Robert Steward
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+13474
+0031-OTR
+Regular
+ASC
+ 
+Tian Tian
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+19969
+0032-OTR
+Regular
+ASC
+ 
+Lynn Grabenhorst,
+Subith Vasu Sumathi
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+19970
+0033-OTR
+Regular
+ASC
+ 
+Lynn Grabenhorst,
+Felipe Viana
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+19971
+0034-OTR
+Regular
+ASC
+ 
+Lynn Grabenhorst,
+Dazhong Wu
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+19972
+0035-OTR
+Regular
+ASC
+ 
+Lynn Grabenhorst,
+Yunjun Xu
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+19973
+0036-OTR
+Regular
+ASC
+ 
+Denizhan Yavas,
+Lynn Grabenhorst
+01/10/2022 - 05/03/2022
+Closed	
+Collapse section EML 4024C - Engineering Design Practice EML 4024C - Engineering Design Practice 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11676
+0001-LEC
+Regular
+We 12:00PM - 2:50PM
+ENG2   0304
+Pradipta Biswas
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11921
+0002-LEC
+Regular
+Th 8:00AM - 10:50AM
+ENG2   0304
+Pradipta Biswas
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EML 4142 - Heat Transfer EML 4142 - Heat Transfer 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12342
+0M01-LEC
+Regular
+Mo 11:30AM - 1:20PM
+CB1 O121
+Tian Tian
+01/10/2022 - 05/03/2022
+Closed	
+Collapse section EML 4142H - Honors Heat Transfer I EML 4142H - Honors Heat Transfer I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+13468
+0201-LEC
+Regular
+TuTh 12:00PM - 1:15PM
+CB1 O107
+Olusegun Ilegbusi
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EML 4225 - Introduction to Vibrations and Controls EML 4225 - Introduction to Vibrations and Controls 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12019
+0M01-LEC
+Regular
+Fr 7:30AM - 9:20AM
+CB2 O207
+Marino Nader
+01/10/2022 - 05/03/2022
+Open	 
+Collapse section EML 4225H - Honors Introduction to Vibrations & Controls EML 4225H - Honors Introduction to Vibrations & Controls 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+13467
+0201-LEC
+Regular
+TuTh 1:30PM - 2:45PM
+CB1 O107
+Jeffrey L. Kauffman
+01/10/2022 - 05/03/2022
+Wait List	
+Collapse section EML 4260 - Dynamics of Machinery EML 4260 - Dynamics of Machinery 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+19953
+0001-LEC
+Regular
+MoWeFr 2:30PM - 3:20PM
+ENG2   0302
+Ranajay Ghosh
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EML 4301C - Mechanical Systems Lab EML 4301C - Mechanical Systems Lab 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12020
+0001-LEC
+Regular
+We 4:30PM - 6:20PM
+HS1  O119
+Jeffrey L. Kauffman
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12021
+0011-LAB
+Regular
+Th 7:30AM - 10:20AM
+ENG1 O468
+Jeffrey L. Kauffman
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12022
+0012-LAB
+Regular
+Th 10:30AM - 1:20PM
+ENG1 O468
+Jeffrey L. Kauffman
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12023
+0013-LAB
+Regular
+Th 1:30PM - 4:20PM
+ENG1 O468
+Jeffrey L. Kauffman
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12088
+0014-LAB
+Regular
+Th 4:30PM - 7:20PM
+ENG1 O468
+Jeffrey L. Kauffman
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12166
+0015-LAB
+Regular
+Th 7:30PM - 10:20PM
+ENG1 O468
+Jeffrey L. Kauffman
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12212
+0016-LAB
+Regular
+Fr 7:30AM - 10:20AM
+ENG1 O468
+Jeffrey L. Kauffman
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+19954
+0017-LAB
+Regular
+Fr 10:30AM - 1:20PM
+ENG1 O468
+Jeffrey L. Kauffman
+01/10/2022 - 05/03/2022
+Wait List	
+Collapse section EML 4306C - Energy Systems Lab EML 4306C - Energy Systems Lab 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12024
+0001-LEC
+Regular
+Th 6:00PM - 7:50PM
+HEC    0125
+Subith Vasu Sumathi
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12025
+0011-LAB
+Regular
+Fr 7:30PM - 10:20PM
+ENG1 O168
+Subith Vasu Sumathi
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12089
+0012-LAB
+Regular
+Mo 4:30PM - 7:20PM
+ENG1 O168
+Subith Vasu Sumathi
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12090
+0013-LAB
+Regular
+Mo 7:30PM - 10:20PM
+ENG1 O168
+Subith Vasu Sumathi
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12091
+0014-LAB
+Regular
+Sa 1:30PM - 4:20PM
+ENG1 O168
+Subith Vasu Sumathi
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12092
+0015-LAB
+Regular
+Sa 4:30PM - 7:20PM
+ENG1 O168
+Subith Vasu Sumathi
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EML 4411 - Modern Power Generation Systems EML 4411 - Modern Power Generation Systems 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+19961
+0001-LEC
+Regular
+MoWeFr 9:30AM - 10:20AM
+CB1 O319
+Sagnik Mazumdar
+01/10/2022 - 05/03/2022
+Wait List	
+Collapse section EML 4501C - Engineering Design I EML 4501C - Engineering Design I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12065
+0001-LEC
+Regular
+TuTh 1:30PM - 2:45PM
+CSB    0101
+Kurt Stresau
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EML 4502C - Engineering Design II EML 4502C - Engineering Design II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12066
+0001-LEC
+Regular
+TuTh 3:00PM - 4:15PM
+CB2 O201
+Kurt Stresau
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EML 4504 - Design & Analysis of Machine Components II EML 4504 - Design & Analysis of Machine Components II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12075
+0001-LEC
+Regular
+TuTh 9:00AM - 10:15AM
+CB2 O207
+Dazhong Wu,
+Alexis Rivera
+01/10/2022 - 05/03/2022
+Wait List	
+Collapse section EML 4903H - Honors Directed Reading I EML 4903H - Honors Directed Reading I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+21238
+0201-IND
+Regular
+ASC
+ 
+Kareem Ahmed
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+21328
+0202-IND
+Regular
+ASC
+ 
+Dazhong Wu
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+21788
+0203-IND
+Regular
+ASC
+ 
+Hansen Mansy
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+21789
+0204-IND
+Regular
+ASC
+ 
+Samik Bhattacharya
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+21790
+0205-IND
+Regular
+ASC
+ 
+Jeffrey L. Kauffman
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+21791
+0206-IND
+Regular
+ASC
+ 
+Hansen Mansy
+01/10/2022 - 05/03/2022
+Closed	
+Collapse section EML 4904H - Honors Directed Reading II EML 4904H - Honors Directed Reading II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+21517
+0201-IND
+Regular
+ASC
+ 
+Sang-Eun Song
+01/10/2022 - 05/03/2022
+Closed	
+Collapse section EML 4906 - Directed Independent Study EML 4906 - Directed Independent Study 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11853
+0001-IND
+Regular
+ASC
+ 
+Kareem Ahmed
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11854
+0002-IND
+Regular
+ASC
+ 
+Yuanli Bai
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11855
+0003-IND
+Regular
+ASC
+ 
+Samik Bhattacharya
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11856
+0004-IND
+Regular
+ASC
+ 
+Quanfang Chen
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11857
+0005-IND
+Regular
+ASC
+ 
+Hyoung Jin Cho
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11976
+0006-IND
+Regular
+ASC
+ 
+Louis Chow
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11858
+0007-IND
+Regular
+ASC
+ 
+Tuhin Das
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11859
+0008-IND
+Regular
+ASC
+ 
+Andrew Dickerson
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11860
+0009-IND
+Regular
+ASC
+ 
+Ranajay Ghosh
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11861
+0010-IND
+Regular
+ASC
+ 
+Ali Gordon
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11956
+0011-IND
+Regular
+ASC
+ 
+Jihua Gou
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11957
+0012-IND
+Regular
+ASC
+ 
+Helen Huang
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11958
+0013-IND
+Regular
+ASC
+ 
+Olusegun Ilegbusi
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11959
+0014-IND
+Regular
+ASC
+ 
+Jayanta Kapat
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11960
+0015-IND
+Regular
+ASC
+ 
+Alain Kassab
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11961
+0016-IND
+Regular
+ASC
+ 
+Jeffrey L. Kauffman
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11962
+0017-IND
+Regular
+ASC
+ 
+Ranganathan Kumar
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11963
+0018-IND
+Regular
+ASC
+ 
+Kuo-Chi Lin
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12011
+0019-IND
+Regular
+ASC
+ 
+Hansen Mansy
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12012
+0020-IND
+Regular
+ASC
+ 
+Faissal Moslehy
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12013
+0021-IND
+Regular
+ASC
+ 
+Nina Orlovskaya
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12014
+0022-IND
+Regular
+ASC
+ 
+Yoav Peles
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12045
+0023-IND
+Regular
+ASC
+ 
+Shawn Putnam
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12046
+0024-IND
+Regular
+ASC
+ 
+Seetha Raghavan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12047
+0025-IND
+Regular
+ASC
+ 
+Sang-Eun Song
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12160
+0026-IND
+Regular
+ASC
+ 
+Mark Steiner
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12185
+0027-IND
+Regular
+ASC
+ 
+Robert Steward
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12222
+0028-IND
+Regular
+ASC
+ 
+Subith Vasu Sumathi
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12223
+0029-IND
+Regular
+ASC
+ 
+Yunjun Xu
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12322
+0030-IND
+Regular
+ASC
+ 
+Qiushi Fu
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12323
+0031-IND
+Regular
+ASC
+ 
+Kawai Kwok
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12324
+0032-IND
+Regular
+ASC
+ 
+Felipe Viana
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12325
+0033-IND
+Regular
+ASC
+ 
+Dazhong Wu
+01/10/2022 - 05/03/2022
+Closed	
+Collapse section EML 4912 - Directed Independent Research EML 4912 - Directed Independent Research 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+21915
+0001-RES
+Regular
+ASC
+ 
+Jeffrey L. Kauffman
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+22063
+0002-RES
+Regular
+ASC
+ 
+Seetha Raghavan
+01/10/2022 - 05/03/2022
+Closed	
+Collapse section EML 4931 - Mechanical Career and Academic Faculty Advising II EML 4931 - Mechanical Career and Academic Faculty Advising II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11879
+0001-OTR
+Regular
+ASC
+ 
+Hyoung Jin Cho,
+Kurt Stresau
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EML 4932 - Special Topics EML 4932 - Special Topics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+20614
+0001-LEC
+Regular
+TuTh 4:30PM - 5:50PM
+CB1 O309
+Hyoung Jin Cho
+01/10/2022 - 05/03/2022
+Open	
+Topic: ST: MNFTNG PROC FOR MECH COMP
+Collapse section EML 4970H - Undergraduate Honors Thesis EML 4970H - Undergraduate Honors Thesis 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+21825
+0201-IND
+Regular
+ASC
+ 
+Robert Steward
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+21826
+0202-IND
+Regular
+ASC
+ 
+Samik Bhattacharya
+01/10/2022 - 05/03/2022
+Closed	
+Collapse section EML 4971H - Honors Undergraduate Thesis II EML 4971H - Honors Undergraduate Thesis II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+21629
+0201-IND
+Regular
+ASC
+ 
+Hansen Mansy
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+21632
+0202-IND
+Regular
+ASC
+ 
+Joon-Hyuk Park
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+21640
+0203-IND
+Regular
+ASC
+ 
+Michael Kinzel
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+21846
+0204-IND
+Regular
+ASC
+ 
+Samik Bhattacharya
+01/10/2022 - 05/03/2022
+Closed	
+Go to top iconGo to top

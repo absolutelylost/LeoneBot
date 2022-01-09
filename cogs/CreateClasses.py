@@ -27,7 +27,8 @@ class createClassCommand(commands.Cog): #extends
                 overwrites = {
                     ctx.guild.default_role: discord.PermissionOverwrite(read_messages= False), 
                 }
-                await ctx.guild.create_text_channel(section, overwrites=overwrites, category=category)
+                await ctx.guild.create_text_channel(section, overwrites=overwrites)
+                                                    #, category=category)
             await ctx.channel.send('channels have been created for classes {}'.format(sections))
 
 def setup(bot):#required

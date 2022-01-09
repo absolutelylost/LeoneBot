@@ -46,7 +46,7 @@ class class_parser:
     def parse(self):
         # Read in text file line by line
         # with open('/content/drive/My Drive/discord/EML-dump.txt') as f:
-        with open('./EML-dump.txt') as f:
+        with open('EML-dump.txt') as f:
             lines = f.readlines()
 
         # Save index of class headings

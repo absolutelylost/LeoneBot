@@ -45,19 +45,35 @@ def not_a_class(label):
 class class_parser:
     def parse(self):
         import os , sys
-        
+        lines = []
+
         # Read in text file line by line
         # with open('/content/drive/My Drive/discord/EML-dump.txt') as f:
-        # with open(os.path.join(sys.path[0], 'Data/EML-dump.txt'), "r") as f:
-        #     lines = f.readlines()
+        with open(os.path.join(sys.path[0], 'Data/EML-dump.txt'), "r") as f:
+            line = f.readlines()
+            lines.append(line)
+        with open(os.path.join(sys.path[0], 'Data/EAS-dump.txt'), "r") as f:
+            line = f.readlines()
+            lines.append(line)
+        with open(os.path.join(sys.path[0], 'Data/EMA-dump.txt'), "r") as f:
+            line = f.readlines()
+            lines.append(line)
+        with open(os.path.join(sys.path[0], 'Data/MAC-dump.txt'), "r") as f:
+            line = f.readlines()
+            lines.append(line)
+        with open(os.path.join(sys.path[0], 'Data/EGN-dump.txt'), "r") as f:
+            line = f.readlines()
+            lines.append(line)
+        
 
-        lines = []
-        os.chdir("/Data")
-        for file in os.listdir():
-            if file.endswith(".txt"):
-                with open(os.path.join(sys.path[0], 'Data/' + file), "r") as f:
-                    line = f.readlines()
-                    lines.append(line)
+
+        # lines = []
+        # os.chdir("/Data")
+        # for file in os.listdir():
+        #     if file.endswith(".txt"):
+        #         with open(os.path.join(sys.path[0], 'Data/' + file), "r") as f:
+        #             line = f.readlines()
+        #             lines.append(line)
             
 
         # Save index of class headings

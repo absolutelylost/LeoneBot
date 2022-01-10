@@ -1,0 +1,719 @@
+
+go to ...
+GO!
+Andres Torres-Figueroa
+Search
+Plan
+Enroll
+My Academics
+ 	Search for Classes	 	 	|	 	 	Browse Course Catalog	 
+Search for Classes
+Search Results
+University of Central Florida | Spring 2022
+My Class Schedule
+EAS 4505
+Fr 9:30AM - 11:20AM
+BA1 O119
+Shopping Cart
+Your shopping cart is empty.
+The following classes match your search criteria Course Subject: Engineering: General,  Course Career: Undergraduate,  Show Open Classes Only: No
+Descr
+Open
+Open
+Closed
+Closed
+Wait List
+Wait List
+75 class section(s) found
+Collapse section EGN 1007C - Engineering Concepts and Methods EGN 1007C - Engineering Concepts and Methods 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11691
+0002-LEC
+Regular
+Fr 9:30AM - 10:20AM
+VAB    0132
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11728
+0003-LEC
+Regular
+Fr 10:30AM - 11:20AM
+VAB    0132
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+13460
+0004-LEC
+Regular
+Fr 11:30AM - 12:20PM
+VAB    0132
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11692
+0011-LAB
+Regular
+Mo 7:30AM - 8:50AM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11693
+0012-LAB
+Regular
+Mo 9:00AM - 10:20AM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11694
+0013-LAB
+Regular
+Mo 10:30AM - 11:50AM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11695
+0014-LAB
+Regular
+Mo 12:00PM - 1:20PM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11696
+0015-LAB
+Regular
+Mo 1:30PM - 2:50PM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11697
+0016-LAB
+Regular
+Mo 3:00PM - 4:20PM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11698
+0017-LAB
+Regular
+Mo 4:30PM - 5:50PM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11699
+0018-LAB
+Regular
+Tu 7:30AM - 8:50AM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11700
+0019-LAB
+Regular
+Tu 9:00AM - 10:20AM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11701
+0020-LAB
+Regular
+Tu 10:30AM - 11:50AM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11702
+0021-LAB
+Regular
+Tu 12:00PM - 1:20PM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11703
+0022-LAB
+Regular
+Tu 1:30PM - 2:50PM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11704
+0023-LAB
+Regular
+Tu 3:00PM - 4:20PM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11705
+0024-LAB
+Regular
+Tu 4:30PM - 5:50PM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11736
+0025-LAB
+Regular
+We 7:30AM - 8:50AM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11706
+0026-LAB
+Regular
+We 9:00AM - 10:20AM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11707
+0027-LAB
+Regular
+We 10:30AM - 11:50AM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11708
+0028-LAB
+Regular
+We 12:00PM - 1:20PM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11709
+0029-LAB
+Regular
+We 1:30PM - 2:50PM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11710
+0030-LAB
+Regular
+We 3:00PM - 4:20PM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11711
+0031-LAB
+Regular
+We 4:30PM - 5:50PM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11712
+0032-LAB
+Regular
+Th 7:30AM - 8:50AM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11713
+0033-LAB
+Regular
+Th 9:00AM - 10:20AM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11714
+0034-LAB
+Regular
+Th 10:30AM - 11:50AM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12058
+0035-LAB
+Regular
+Th 12:00PM - 1:20PM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12059
+0036-LAB
+Regular
+Th 1:30PM - 2:50PM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12120
+0037-LAB
+Regular
+Th 3:00PM - 4:20PM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12121
+0038-LAB
+Regular
+Th 4:30PM - 5:50PM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12213
+0039-LAB
+Regular
+Fr 10:30AM - 11:50AM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12214
+0040-LAB
+Regular
+Fr 12:00PM - 1:20PM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12215
+0041-LAB
+Regular
+Fr 1:30PM - 2:50PM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12217
+0043-LAB
+Regular
+Tu 6:00PM - 7:20PM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12219
+0045-LAB
+Regular
+Th 6:00PM - 7:20PM
+ENG1 O260
+Jacqueline Sullivan
+01/10/2022 - 05/03/2022
+Closed	
+Collapse section EGN 3211 - Engineering Analysis and Computation EGN 3211 - Engineering Analysis and Computation 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11994
+0001-LEC
+Regular
+TuTh 6:00PM - 7:15PM
+CB1 O308
+Sundar Sinnappan
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12038
+0002-LEC
+Regular
+MoWe 12:00PM - 1:15PM
+HS1  O125
+Suboh Suboh
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12067
+0003-LEC
+Regular
+TuTh 4:30PM - 5:45PM
+CB1 O308
+Sundar Sinnappan
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EGN 3310 - Engineering Analysis-Statics EGN 3310 - Engineering Analysis-Statics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+19316
+0001-LEC
+Regular
+MoWeFr 7:30AM - 8:20AM
+ENG2   0102
+Ricardo Zaurin
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+13461
+0002-LEC
+Regular
+MoWe 10:30AM - 11:45AM
+ENG2   0102
+Staff
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+13462
+0003-LEC
+Regular
+TuTh 10:30AM - 11:45AM
+ENG2   0102
+Dennis Filler
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12163
+0004-LEC
+Regular
+TuTh 1:30PM - 2:45PM
+ENG2   0102
+Celina Dozier
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+13600
+0005-LEC
+Regular
+TuTh 4:30PM - 5:45PM
+ENG2   0102
+Necati Catbas
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EGN 3310H - Honors Engineering Analysis-Statics EGN 3310H - Honors Engineering Analysis-Statics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11998
+0201-LEC
+Regular
+TuTh 6:00PM - 7:15PM
+HEC    0119
+Ayman Abdallah
+01/10/2022 - 05/03/2022
+Wait List	
+Collapse section EGN 3321 - Engineering Analysis-Dynamics EGN 3321 - Engineering Analysis-Dynamics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11773
+0M01-LEC
+Regular
+Mo 11:30AM - 1:20PM
+CB2 O106
+Qiushi Fu
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12197
+0M02-LEC
+Regular
+We 3:30PM - 5:20PM
+CB2 O207
+Sudeshna Pal
+01/10/2022 - 05/03/2022
+Wait List	
+Collapse section EGN 3321H - Honors Engineering Analysis - Dynamics EGN 3321H - Honors Engineering Analysis - Dynamics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11727
+0201-LEC
+Regular
+TuTh 3:00PM - 4:15PM
+CB1 O122
+Marino Nader
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12238
+0202-LEC
+Regular
+MoWeFr 9:30AM - 10:20AM
+CB1 O107
+Felipe Viana
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EGN 3331C - Mechanics of Materials EGN 3331C - Mechanics of Materials 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11755
+0001-LEC
+Regular
+TuTh 7:30AM - 8:45AM
+ENG1 O435
+Patrick Sun
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+13499
+0002-LEC
+Regular
+TuTh 3:00PM - 4:15PM
+ENG1 O435
+Hae-Bum Yun
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+13500
+0011-LAB
+Regular
+We 12:00PM - 1:50PM
+CB1 O113
+Patrick Sun
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+13501
+0012-LAB
+Regular
+Fr 12:00PM - 1:50PM
+CB1 O113
+Patrick Sun
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+13502
+0013-LAB
+Regular
+Fr 10:00AM - 11:50AM
+CB1 O113
+Hae-Bum Yun
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+13503
+0014-LAB
+Regular
+We 2:00PM - 3:50PM
+CB1 O113
+Hae-Bum Yun
+01/10/2022 - 05/03/2022
+Wait List	
+Collapse section EGN 3343 - Thermodynamics EGN 3343 - Thermodynamics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11754
+0M01-LEC
+Regular
+We 11:30AM - 1:20PM
+CB2 O106
+Shawn Putnam
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12198
+0M02-LEC
+Regular
+Mo 3:30PM - 5:20PM
+CB2 O207
+Shawn Putnam
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EGN 3343H - Honors Thermodynamics EGN 3343H - Honors Thermodynamics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12002
+0201-LEC
+Regular
+TuTh 9:00AM - 10:15AM
+ENG2   0302
+Sagnik Mazumdar
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12170
+0202-LEC
+Regular
+MoWeFr 1:30PM - 2:20PM
+CB1 O122
+Tian Tian
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EGN 3365 - Structure and Properties of Materials EGN 3365 - Structure and Properties of Materials 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11763
+0001-LEC
+Regular
+MoWe 1:30PM - 2:45PM
+ENG2   0102
+Tania Roy
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12262
+0002-LEC
+Regular
+TuTh 10:30AM - 11:45AM
+HS1  O116
+Raj Vaidyanathan
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12307
+0003-LEC
+Regular
+TuTh 1:30PM - 2:45PM
+HS1  O116
+Yang Yang
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EGN 3365H - Honors Structure and Properties of Materials EGN 3365H - Honors Structure and Properties of Materials 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12054
+0201-LEC
+Regular
+TuTh 3:00PM - 4:15PM
+CB1 O107
+Jayan Thomas
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EGN 3373 - Principles of Electrical Engineering EGN 3373 - Principles of Electrical Engineering 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11762
+0001-LEC
+Regular
+TuTh 4:30PM - 5:45PM
+PSY    0108
+Sonali Das
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12263
+0002-LEC
+Regular
+MoWe 3:00PM - 4:15PM
+NSC O101
+Genevieve Sapijaszko
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EGN 3613 - Engineering Economic Analysis EGN 3613 - Engineering Economic Analysis 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11765
+0001-LEC
+Regular
+TuTh 9:00AM - 10:20AM
+CB2 O106
+Mark Calabrese
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EGN 4060C - Introduction to Robotics EGN 4060C - Introduction to Robotics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12258
+0001-LEC
+Regular
+MoWe 3:00PM - 4:15PM
+CB1 O318
+Gita Sukthankar
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12259
+0011-LAB
+Regular
+Tu 4:30PM - 7:20PM
+ENG1 O224
+Gita Sukthankar
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12260
+0012-LAB
+Regular
+We 4:30PM - 7:20PM
+ENG1 O224
+Gita Sukthankar
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12261
+0013-LAB
+Regular
+Th 4:30PM - 7:20PM
+ENG1 O224
+Gita Sukthankar
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+20620
+0014-LAB
+Regular
+Mo 4:30PM - 7:20PM
+ENG1 O224
+Gita Sukthankar
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+20625
+0015-LAB
+Regular
+Fr 4:30PM - 7:20PM
+ENG1 O224
+Gita Sukthankar
+01/10/2022 - 05/03/2022
+Wait List	
+Collapse section EGN 4903H - Honors Directed Reading I EGN 4903H - Honors Directed Reading I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+21237
+0201-IND
+Regular
+ASC
+ 
+Ali Gordon
+01/10/2022 - 05/03/2022
+Closed	
+Collapse section EGN 4970H - Undergraduate Honors Thesis EGN 4970H - Undergraduate Honors Thesis 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11747
+0201-OTR
+Regular
+TBA
+TBA
+Staff
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11748
+0202-OTR
+Regular
+TBA
+TBA
+Staff
+01/10/2022 - 05/03/2022
+Closed	
+Go to top iconGo to top

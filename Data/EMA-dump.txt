@@ -1,0 +1,537 @@
+
+go to ...
+GO!
+Andres Torres-Figueroa
+Search
+Plan
+Enroll
+My Academics
+ 	Search for Classes	 	 	|	 	 	Browse Course Catalog	 
+Search for Classes
+Search Results
+University of Central Florida | Spring 2022
+My Class Schedule
+EAS 4505
+Fr 9:30AM - 11:20AM
+BA1 O119
+Shopping Cart
+Your shopping cart is empty.
+The following classes match your search criteria Course Subject: Engineering: Materials,  Course Career: Undergraduate,  Show Open Classes Only: No
+Descr
+Open
+Open
+Closed
+Closed
+Wait List
+Wait List
+55 class section(s) found
+Collapse section EMA 3012C - Experimental Techniques in Materials I EMA 3012C - Experimental Techniques in Materials I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11671
+0001-LEC
+Regular
+Mo 12:00PM - 1:50PM
+ENG2   0302
+Dan Zhou
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11672
+0012-LAB
+Regular
+Tu 12:00PM - 1:50PM
+ENG1 O157
+Dan Zhou
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11737
+0013-LAB
+Regular
+We 9:00AM - 10:50AM
+ENG1 O157
+Dan Zhou
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11780
+0014-LAB
+Regular
+We 12:00PM - 1:50PM
+ENG1 O157
+Dan Zhou
+01/10/2022 - 05/03/2022
+Wait List	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11867
+0015-LAB
+Regular
+We 3:00PM - 4:50PM
+ENG1 O157
+Dan Zhou
+01/10/2022 - 05/03/2022
+Wait List	
+Collapse section EMA 3102 - Thermodynamics of Materials EMA 3102 - Thermodynamics of Materials 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12367
+0001-LEC
+Regular
+MoWe 10:30AM - 11:45AM
+ENG2   0302
+YeonWoong Jung
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EMA 3124 - Design and Selection of Materials EMA 3124 - Design and Selection of Materials 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12343
+0001-LEC
+Regular
+MoWe 9:00AM - 10:15AM
+CB1 O122
+Yajie Dong
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EMA 3706 - Structure and Properties of Aerospace Materials EMA 3706 - Structure and Properties of Aerospace Materials 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11866
+0001-LEC
+Regular
+MoWe 10:30AM - 11:45AM
+CB2 O105
+Swaminathan Rajaraman
+01/10/2022 - 05/03/2022
+Open	 
+Collapse section EMA 4009 - Materials in Society EMA 4009 - Materials in Society 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+19978
+0001-LEC
+Regular
+MoWe 9:00AM - 10:15AM
+HEC    0104
+Sudipta Seal
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EMA 4013C - Experimental Techniques in Materials II EMA 4013C - Experimental Techniques in Materials II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12364
+0001-LEC
+Regular
+Mo 3:00PM - 4:15PM
+CB1 O107
+Kausik Mukhopadhyay
+01/10/2022 - 05/03/2022
+Open	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+13483
+0011-LAB
+Regular
+Fr 1:30PM - 4:20PM
+ENG1 O157
+Kausik Mukhopadhyay
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EMA 4115 - Transport Phenomena in Materials EMA 4115 - Transport Phenomena in Materials 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+13481
+0001-LEC
+Regular
+TuTh 3:00PM - 4:15PM
+BA1 O205
+Dan Zhou
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EMA 4125 - Phase Transformations and Microstructural Development in Materials EMA 4125 - Phase Transformations and Microstructural Development in Materials 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+13482
+0001-LEC
+Regular
+TuTh 1:30PM - 2:45PM
+HEC    0104
+Yongho Sohn
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EMA 4413 - Fundamentals of Electronic Materials EMA 4413 - Fundamentals of Electronic Materials 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+20823
+0001-LEC
+Regular
+MoWe 12:00PM - 1:15PM
+CB1 O122
+Jiyu Fang
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EMA 4906 - Directed Independent Study EMA 4906 - Directed Independent Study 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11940
+0001-IND
+Regular
+ASC
+ 
+Linan An
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11941
+0002-IND
+Regular
+ASC
+ 
+Yuanli Bai
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11942
+0003-IND
+Regular
+ASC
+ 
+Richard Blair
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11943
+0004-IND
+Regular
+ASC
+ 
+Suryanarayana Challapalli
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11944
+0005-IND
+Regular
+ASC
+ 
+Quanfang Chen
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11945
+0006-IND
+Regular
+ASC
+ 
+Hyoung Jin Cho
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11946
+0007-IND
+Regular
+ASC
+ 
+Lee Chow
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11947
+0008-IND
+Regular
+ASC
+ 
+Kevin Coffey
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11948
+0009-IND
+Regular
+ASC
+ 
+Neelkanth Dhere
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11949
+0010-IND
+Regular
+ASC
+ 
+Yajie Dong
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11950
+0011-IND
+Regular
+ASC
+ 
+Jiyu Fang
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11951
+0012-IND
+Regular
+ASC
+ 
+Xiaofeng Feng
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11952
+0013-IND
+Regular
+ASC
+ 
+James Fenton
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11953
+0014-IND
+Regular
+ASC
+ 
+Stephanie Florczyk
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11954
+0015-IND
+Regular
+ASC
+ 
+Romain Gaume
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+11955
+0016-IND
+Regular
+ASC
+ 
+Andre Gesquiere
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12076
+0017-IND
+Regular
+ASC
+ 
+Helge Heinrich
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12077
+0018-IND
+Regular
+ASC
+ 
+Qun Huo
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12078
+0019-IND
+Regular
+ASC
+ 
+Tengfei Jiang
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12079
+0020-IND
+Regular
+ASC
+ 
+Aravinda Kar
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12080
+0021-IND
+Regular
+ASC
+ 
+Akihiro Kushima
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12081
+0022-IND
+Regular
+ASC
+ 
+Lorraine Leon
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12082
+0023-IND
+Regular
+ASC
+ 
+Nahid Mohajeri
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12083
+0024-IND
+Regular
+ASC
+ 
+Nina Orlovskaya
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12084
+0025-IND
+Regular
+ASC
+ 
+Seetha Raghavan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12085
+0026-IND
+Regular
+ASC
+ 
+Swaminathan Rajaraman
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12326
+0027-IND
+Regular
+ASC
+ 
+Kathleen Richardson
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12327
+0028-IND
+Regular
+ASC
+ 
+Tania Roy
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12328
+0029-IND
+Regular
+ASC
+ 
+Patrick Schelling
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12329
+0030-IND
+Regular
+ASC
+ 
+Sudipta Seal
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12330
+0031-IND
+Regular
+ASC
+ 
+Yongho Sohn
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12331
+0032-IND
+Regular
+ASC
+ 
+Ming Su
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12332
+0033-IND
+Regular
+ASC
+ 
+Jayan Thomas
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12333
+0034-IND
+Regular
+ASC
+ 
+Raj Vaidyanathan
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12334
+0035-IND
+Regular
+ASC
+ 
+Yang Yang
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+12335
+0036-IND
+Regular
+ASC
+ 
+Lei Zhai
+01/10/2022 - 05/03/2022
+Closed	
+Collapse section EMA 4912 - Directed Independent Research EMA 4912 - Directed Independent Research 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+21927
+0001-RES
+Regular
+ASC
+ 
+Kaitlyn Crawford
+01/10/2022 - 05/03/2022
+Closed	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+22027
+0002-RES
+Regular
+ASC
+ 
+Kausik Mukhopadhyay
+01/10/2022 - 05/03/2022
+Closed	
+Collapse section EMA 4916 - Materials Senior Design II EMA 4916 - Materials Senior Design II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+19977
+0001-LEC
+Regular
+TuTh 4:30PM - 5:45PM
+ENG1 O286
+Tengfei Jiang
+01/10/2022 - 05/03/2022
+Open	
+Collapse section EMA 4970H - Undergraduate Honors Thesis EMA 4970H - Undergraduate Honors Thesis 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+21824
+0201-IND
+Regular
+ASC
+ 
+Mehdi Razavi
+01/10/2022 - 05/03/2022
+Closed	
+Collapse section EMA 4971H - Honors Undergraduate Thesis II EMA 4971H - Honors Undergraduate Thesis II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+21251
+0201-IND
+Regular
+ASC
+ 
+Kausik Mukhopadhyay
+01/10/2022 - 05/03/2022
+Closed	
+Go to top iconGo to top

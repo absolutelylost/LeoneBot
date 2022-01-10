@@ -52,7 +52,7 @@ class class_parser:
         #     lines = f.readlines()
 
         lines = []
-        for file in os.listdir():
+        for file in os.listdir("/Data"):
             if file.endswith(".txt"):
                 with open(os.path.join(sys.path[0], 'Data/' + file), "r") as f:
                     line = f.readlines()

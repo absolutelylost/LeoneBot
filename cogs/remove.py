@@ -45,7 +45,7 @@ class removeCommand(commands.Cog): #extends
                 for channel in guild.text_channels:
                     if channel.name in sections:
                         await channel.delete(reason=None)                       
-                await channel.send('All class channels removed')
+                await ctx.channel.send('All class channels removed')
                 
                 
                 # remove users from channels

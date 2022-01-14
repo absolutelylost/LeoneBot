@@ -13,17 +13,17 @@ class registerCommand(commands.Cog): #extends
     async def register(self, ctx,  course): #member: discord.Member: self is instance of class
 
         #retrieve ids for channels on server
-        all_channels = discord.utils.get(ctx.guild.channels)
-        # print(category.channels)
+        category = discord.utils.get(ctx.guild.categories, name= 'classes')
+        print(category.channels)
         
         #initalize variable to confirm reception of course
         found = False
         
-        if all_channels is None:
+        if category is None:
             await ctx.channel.send('No classes exist.\n')
 
         else:
-            for channel in all_channels:
+            for channel in ctx.guild.channels:
                 print(channel.name)
                 print(course)
                 if channel.name == course:

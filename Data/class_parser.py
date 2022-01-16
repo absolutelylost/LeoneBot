@@ -43,17 +43,16 @@ def not_a_class(label):
 
 
 class class_parser:
-    def parse(self):
+    def parse(self, file):
         import os , sys
 
         # Read in text file line by line
-        # with open('/content/drive/My Drive/discord/EML-dump.txt') as f:
         
         lines = []
         
-        with open(os.path.join(sys.path[0], 'Data/file.txt'), "r") as f:
+        with open(os.path.join(sys.path[0], 'Data/'+file), "r") as f:
             lines = f.readlines()
-        
+
         # Save index of class headings
         heading_index = []
         for i, line in enumerate(lines):

@@ -45,8 +45,7 @@ go to discord.com/developers/applications
 
 To send a message to specific channel
 
-const channel = <client>.channels.cache.get('<id>');
-channel.send('<content>');
+ctx.channel.send('<content>');
 To send a message to a specific user in DM
 
 const user = <client>.users.cache.get('<id>');

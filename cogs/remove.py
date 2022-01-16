@@ -4,7 +4,7 @@ from discord.ext.commands import bot, cog
 import discord
 from discord.ext.commands.core import check
 import asyncio
-
+import os, sys
 from Data import class_parser as cp
 
 #remove users from all classes
@@ -37,17 +37,20 @@ class removeCommand(commands.Cog): #extends
                 
                 # remove channels from server
                 category = discord.utils.get(ctx.guild.categories, name= 'classes')
-
-                sections = cp.class_parser().parse()
-                
-                # for guild in bot.guilds:
-                guild = ctx.guild
-                for channel in guild.text_channels:
-                    if channel.name in sections:
-                        await channel.delete(reason=None)                       
-                await ctx.channel.send('All class channels removed')
-                
-                
+                files = os.listdir('Data/')
+                await ctx.channel.send(files)
+                for file in files:
+                    if '.txt' in file:
+                        sections = cp.class_parser().parse(file)
+                        
+                        # for guild in bot.guilds:
+                        guild = ctx.guild
+                        for channel in guild.text_channels:
+                            if channel.name in sections:
+                                await channel.delete(reason=None)                       
+                        await ctx.channel.send('All class channels removed')
+                        
+                        
                 # remove users from channels
                 # category = discord.utils.get(ctx.guild.categories, name= 'classes')
                 # for channel in category.channels:
